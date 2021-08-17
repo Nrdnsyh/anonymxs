@@ -1,5 +1,5 @@
 {
-  "name": "anonymxs",
+  "name": "anon",
   "version": "1.0.0",
   "description": "Anonymous Bot for WhatsApp",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lvstr/anonymxs.git"
+    "url": "git+https://github.com/Nrdnsyh/wa.git"
   },
   "keywords": [
     "anonymouse-bot"
@@ -17,7 +17,7 @@
   "author": "Rand",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lvstr/anonymxs/issues"
+    "url": "https://github.com/Nrdnsyh/wa/issues"
   },
   "homepage": "https://github.com/lvstr/anonymxs#readme",
   "dependencies": {
